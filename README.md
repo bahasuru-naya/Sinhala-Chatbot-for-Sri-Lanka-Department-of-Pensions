@@ -1,10 +1,10 @@
-# 🏛️ Sinhala Chatbot for Sri Lanka Department of Pensions
+# Sinhala Chatbot for Sri Lanka Department of Pensions
 
 A modular, Retrieval-Augmented Generation (RAG) based AI Chatbot System designed to assist citizens with inquiries related to the Sri Lanka Department of Pensions in the Sinhala language.
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 - [1. The Problem and Objective](#1-the-problem-and-objective)
 - [2. System Design and Architecture](#2-system-design-and-architecture)
 - [3. Project Structure](#3-project-structure)
@@ -32,8 +32,6 @@ The specific objectives of the project are as follows:
 2. **Context-Aware Response Generation:** To utilize a Large Language Model (`gemma4:e2b` via Ollama) capable of generating highly accurate, polite, and context-specific direct answers based only on the retrieved official information.
 3. **Domain Restriction (Hallucination Prevention):** To enforce strict rules preventing the model from hallucinating or answering out-of-domain questions by utilizing an optimized Sinhala system prompt.
 4. **User-Friendly Interface:** To provide a visually appealing, easily accessible, and responsive user interface using the `Streamlit` framework, styled specifically to meet government standard aesthetics.
-5. **Fast and Accurate Delivery:** To minimize response latency by pre-computing embeddings and retrieving answers in real-time, functioning effectively as an automated, 24/7 customer support agent.
-
 ---
 
 ## 2. System Design and Architecture
