@@ -1,6 +1,8 @@
 # Sinhala Chatbot for Sri Lanka Department of Pensions
 
 A modular, Retrieval-Augmented Generation (RAG) based AI Chatbot System designed to assist citizens with inquiries related to the Sri Lanka Department of Pensions in the Sinhala language.
+<img width="1214" height="578" alt="1" src="https://github.com/user-attachments/assets/d8156e2a-356d-4b16-a3bd-4c7b98c3d88c" />
+<img width="1249" height="580" alt="2" src="https://github.com/user-attachments/assets/be36950c-9354-4f83-bacf-6e0d6a5411fc" />
 
 ---
 
